@@ -1,6 +1,0 @@
-streamlit==1.33.0
-pandas==2.2.2
-pydeck==0.8.0
-numpy==1.26.4
-altair==5.3.0
-matplotlib==3.5.1
