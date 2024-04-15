@@ -35,6 +35,10 @@ This Streamlit application provides interactive visualizations of fire incidents
 ## Run the Application:
     streamlit run Rui_LI_California_Fire_Incidents.py
 
+## Quick Demonstration
+- Use this link to try out the web app: https://semwent-california-fire-rui-li-california-fire-incidents-290h1v.streamlit.app/
+- These are the demonstration of using the app: [part 1](https://www.linkedin.com/posts/rui-li-099279212_this-is-part-1-of-the-demonstration-of-california-activity-7009421682977161216-dQAB?utm_source=share&utm_medium=member_desktop), [part 2](https://www.linkedin.com/posts/rui-li-099279212_this-is-part-2-of-the-demonstration-of-california-activity-7009422367714074624--Ftj?utm_source=share&utm_medium=member_desktop)
+
 ## How to Use
 - Launch the App: Run the Streamlit application using the command provided above.
 - Interact with the Map: Use the map to visualize fires. Zoom in/out and click on markers for more detailed information.
